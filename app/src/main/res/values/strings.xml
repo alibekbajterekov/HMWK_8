@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HMWK_8</string>
+    <string name="btn_export_as_csv">Export as CSV</string>
+</resources>
